@@ -1,7 +1,5 @@
 /*****************************************
- * Prep. Mercedes Rodriguez
- *  --- Proyecto 3: Pacman ---
-Recurso Critico del Proyecto:
+
  *      Mapa. ya que pueden haber o no posiciones libres.
 Procesos Involucrados:
  *      Pacman
